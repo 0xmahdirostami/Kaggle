@@ -15,14 +15,3 @@ Content
 Acknowledgements
 
 > The data has been scraped from the official TED Website and is available under the Creative Commons License.
-> Inspiration
-
-I've always been fascinated by TED Talks and the immense diversity of content that it provides for free. I was also thoroughly inspired by a TED Talk that visually explored TED Talks stats and I was motivated to do the same thing, albeit on a much less grander scale.
-
-### Some of the questions that can be answered with this dataset:
-
-   * How is each TED Talk related to every other TED Talk?
-   * Which are the most viewed and most favorited Talks of all time? Are they mostly the same? What does this tell us?
-   * What kind of topics attract the maximum discussion and debate (in the form of comments)?
-   * Which months are most popular among TED and TEDx chapters?
-   * Which themes are most popular amongst TEDsters?
