@@ -1,9 +1,11 @@
 # Fauture selection & Logistic regression
 ## Mobile Price Classification
-<a href='https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression'>https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression</a>
+[https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression](https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression)
+<br>
+[https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
+
 > classify mobile price range
 
-[https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 ### Context
 
 > Bob has started his own mobile company. He wants to give tough fight to big companies like Apple,Samsung etc.
