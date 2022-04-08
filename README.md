@@ -25,9 +25,9 @@
 <br>
 
 > #### Apartment rental offers in Germany
-> #### Data analyzing
+> #### Data analyzing (incomplete)
 > #### [https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
-> #### 
+> 
 
 
 
