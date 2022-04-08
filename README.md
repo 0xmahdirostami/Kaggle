@@ -6,7 +6,7 @@
 > #### Mobile Price Classification
 > #### Fauture selection & Logistic regression
 > #### [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
-> #### 
+> #### [https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression](#https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression)
 
 > #### New York City Airbnb Open Data
 > #### Data Cleansing, Analysis, Hypothesis test, Regression 
