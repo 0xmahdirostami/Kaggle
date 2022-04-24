@@ -1,5 +1,3 @@
-# Do some analyzing and data cleansing with Pandas 
-
 [https://www.kaggle.com/rounakbanik/ted-talks](https://www.kaggle.com/rounakbanik/ted-talks)
 ### Context
 
