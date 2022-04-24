@@ -1,5 +1,4 @@
-# Data Cleansing, Analysis, Hypothesis test, Regression 
-## New York City Airbnb Open Data
+# New York City Airbnb Open Data
 
 [https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
