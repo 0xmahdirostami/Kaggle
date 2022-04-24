@@ -1,10 +1,11 @@
 # [Kaggle](https://www.kaggle.com/) 
 
 #### My Kaggle account: <a href="https://www.kaggle.com/mahdirostami">https://www.kaggle.com/mahdirostami</a>
+
 ### Mobile Price Classification <br>
 >  [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)<br>
 
->  Fauture selection & Logistic regression<br>
+>  Fauture selection & Logistic regression [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Mobile%20Price%20Classification-2022/1.%20Fauture%20selection%20%26%20Logistic%20regression-April)<br>
 >  Packages: sklearn, pandas, matplotlib, seaborn, numpy<br>
 >  [https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression](https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression)
 <br>
