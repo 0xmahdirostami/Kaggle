@@ -1,7 +1,6 @@
 # Fauture selection & Logistic regression
 ## Mobile Price Classification
-[https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression](https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression)
-<br>
+
 [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
 > classify mobile price range
