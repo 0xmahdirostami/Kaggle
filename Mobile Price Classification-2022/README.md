@@ -1,5 +1,4 @@
-# Fauture selection & Logistic regression
-## Mobile Price Classification
+# Mobile Price Classification
 
 [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
