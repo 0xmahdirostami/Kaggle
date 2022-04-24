@@ -1,5 +1,4 @@
-# Data analyzing **(incomplete)**
-## Apartment rental offers in Germany
+# Apartment rental offers in Germany
 
 [https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
 > Rental offers scraped from Germany biggest real estate online plattform
