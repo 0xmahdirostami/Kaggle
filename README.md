@@ -8,7 +8,6 @@
 >  Try lots of models features [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Mobile%20Price%20Classification-2022/1.%20Try%20lots%20of%20models%2C%20features-May)<br>
 >  Packages: sklearn, pandas, matplotlib, seaborn, numpy<br>
 >  [https://www.kaggle.com/mahdirostami/try-lots-of-models-features](https://www.kaggle.com/mahdirostami/try-lots-of-models-features)
-<br>
 
 >  Fauture selection & Logistic regression [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Mobile%20Price%20Classification-2022/2.%20Fauture%20selection%20%26%20Logistic%20regression-April)<br>
 >  Packages: sklearn, pandas, matplotlib, seaborn, numpy<br>
@@ -40,7 +39,6 @@
 >  linear regression from scratch, Ridge, Lasso [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Apartment%20rental%20offers%20in%20Germany-2022/1.%20linear%20regression%20from%20scratch%2C%20Ridge%2C%20Lasso-May)<br>
 >  Packages: sklearn, pandas, matplotlib, seaborn, numpy, time <br>
 >  [https://www.kaggle.com/mahdirostami/linear-regression-from-scratch-ridge-lasso](https://www.kaggle.com/mahdirostami/linear-regression-from-scratch-ridge-lasso)
-<br>
 
 >  Data analyzing (incomplete) [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Apartment%20rental%20offers%20in%20Germany-2022/2.%20Data%20analyzing%20(incomplete)-April)<br>
 >  Packages: pyspark, pandas, matplotlib, seaborn, numpy, time <br>
