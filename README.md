@@ -5,7 +5,12 @@
 ### Mobile Price Classification <br>
 >  [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)<br>
 
->  Fauture selection & Logistic regression [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Mobile%20Price%20Classification-2022/1.%20Fauture%20selection%20%26%20Logistic%20regression-April)<br>
+>  Try lots of models features [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Mobile%20Price%20Classification-2022/1.%20Try%20lots%20of%20models%2C%20features-May)<br>
+>  Packages: sklearn, pandas, matplotlib, seaborn, numpy<br>
+>  [https://www.kaggle.com/mahdirostami/try-lots-of-models-features](https://www.kaggle.com/mahdirostami/try-lots-of-models-features)
+<br>
+
+>  Fauture selection & Logistic regression [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Mobile%20Price%20Classification-2022/2.%20Fauture%20selection%20%26%20Logistic%20regression-April)<br>
 >  Packages: sklearn, pandas, matplotlib, seaborn, numpy<br>
 >  [https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression](https://www.kaggle.com/mahdirostami/fauture-selection-logistic-regression)
 <br>
