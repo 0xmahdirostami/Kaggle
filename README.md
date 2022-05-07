@@ -37,7 +37,12 @@
 ### Apartment rental offers in Germany<br>
 >  [https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)<br>
 
->  Data analyzing (incomplete) [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/partment%20rental%20offers%20in%20Germany-2022/1.%20Data%20analyzing%20(incomplete)-April)<br>
+>  linear regression from scratch, Ridge, Lasso [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/Apartment%20rental%20offers%20in%20Germany-2022/1.%20linear%20regression%20from%20scratch%2C%20Ridge%2C%20Lasso-May)<br>
+>  Packages: sklearn, pandas, matplotlib, seaborn, numpy, time <br>
+>  [https://www.kaggle.com/mahdirostami/linear-regression-from-scratch-ridge-lasso](https://www.kaggle.com/mahdirostami/linear-regression-from-scratch-ridge-lasso)
+<br>
+
+>  Data analyzing (incomplete) [files](https://github.com/rostamimahdi1997/Kaggle/tree/main/partment%20rental%20offers%20in%20Germany-2022/2.%20Data%20analyzing%20(incomplete)-April)<br>
 >  Packages: pyspark, pandas, matplotlib, seaborn, numpy, time <br>
 
 
