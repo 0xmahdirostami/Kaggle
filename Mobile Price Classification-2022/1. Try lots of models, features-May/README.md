@@ -1,9 +1,12 @@
-# Mobile Price Classification
-> classify mobile price range
-<a href='https://www.kaggle.com/mahdirostami/try-lots-of-models-features'>https://www.kaggle.com/mahdirostami/try-lots-of-models-features</a>
-
+# Try lots of models features
+## Mobile Price Classification
+[https://www.kaggle.com/mahdirostami/try-lots-of-models-features](https://www.kaggle.com/mahdirostami/try-lots-of-models-features)
+<br>
 [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
-## Context
+
+> classify mobile price range
+
+### Context
 
 > Bob has started his own mobile company. He wants to give tough fight to big companies like Apple,Samsung etc.
 He does not know how to estimate price of mobiles his company creates. In this competitive mobile phone market you cannot simply assume things. To solve this problem he collects sales data of mobile phones of various companies.
