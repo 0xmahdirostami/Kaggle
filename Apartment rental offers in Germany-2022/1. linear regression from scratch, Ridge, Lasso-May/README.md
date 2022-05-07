@@ -1,7 +1,8 @@
 # linear regression from scratch, Ridge, Lasso
 ## Apartment rental offers in Germany
 > Rental offers scraped from Germany biggest real estate online plattform
-<a href='https://www.kaggle.com/mahdirostami'>https://www.kaggle.com/mahdirostami</a>
+
+<a href='https://www.kaggle.com/mahdirostami/linear-regression-from-scratch-ridge-lasso/edit'>https://www.kaggle.com/mahdirostami/linear-regression-from-scratch-ridge-lasso/edit</a>
 
 [https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
 ### About Dataset
